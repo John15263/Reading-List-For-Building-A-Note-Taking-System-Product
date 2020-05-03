@@ -1,0 +1,387 @@
+- [[Information]]
+    - Cesar Hidalgo
+    - Why Information Grows- The Evolution of Order, from Atoms to Economies by Cesar Hidalgo
+    - Stuart A. Kauffman
+    - A World Beyond Physics- The Emergence and Evolution of Life by Stuart A. Kauffman
+    - Paul Davies
+    - The Demon in the Machine- How Hidden Webs of Information Are Finally Solving the Mystery of Life by Paul Davies
+    - James Gleick
+    - The Information- A History, a Theory, a Flood by James Gleick
+    - [[order]]
+        - Peter M. Hoffmann
+        - Life's Ratchet- How Molecular Machines Extract Order from Chaos by Peter M. Hoffmann
+        - [[spontaneous order]]
+            - [[market]]
+                - Avner Greif
+                - Institutions and the Path to the Modern Economy- Lessons from Medieval Trade by Avner Greif
+    - [[network]]
+        - Matthew Jackson
+        - The Human Network- How Your Social Position Determines Your Power, Beliefs, And Behaviors by Matthew Jackson 
+        - [[cooperation]]
+            - [[collaborative creation]]
+                - Yochai Benkler
+                - The Penguin and the Leviathan- How Cooperation Triumphs over Self-Interest by Yochai Benkler
+                - Michael Tomasello
+                - Why We Cooperate by Michael Tomasello
+    - [[knowledge]]&[[social network]]
+        - Bobby Duffy
+        - Why We're Wrong About Nearly Everything-A Theory of Human Misunderstanding by Bobby Duffy
+        - Steven Sloman
+        - The Knowledge Illusion- Why We Never Think Alone by Steven Sloman, Philip Fernbach
+        - L. S. Vygotsky
+        - Mind in Society- The Development of Higher Psychological Processes by L. S. Vygotsky
+        - Hugo Mercier
+        - Not Born Yesterday- The Science of Who We Trust and What We Believe by Hugo Mercier
+        - Michael Tomasello
+        - Becoming Human- A Theory of Ontogeny by Michael Tomasello
+        - Mark W. Moffett
+        - The Human Swarm- How Our Societies Arise, Thrive, and Fall by Mark W. Moffett
+        - Jared Diamond
+        - The Third Chimpanzee- The Evolution and Future of the Human Animal by Jared Diamond
+        - Russell K. Schutt
+        - Social Neuroscience- Brain, Mind, and Society by Russell K. Schutt
+        - Nicholas A. Christakis
+        - Blueprint- The Evolutionary Origins of a Good Society by Nicholas A. Christakis
+        - Michael S. A. Graziano
+        - Consciousness and the Social Brain by Michael S. A. Graziano
+        - Marvin Minsky
+        - The society of mind by Marvin Minsky
+        - The Emotion Machine- Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind by Marvin Minsky
+        - Karl Popper
+        - The Open Society and Its Enemies by Karl Popper
+        - Michael Nielsen
+        - Reinventing Discovery- The New Era of Networked Science by Michael Nielsen
+        - Collective Intelligence- Creating a Prosperous World at Peace 
+        - [[training]]
+            - Karen Pryor
+            - Don't Shoot the Dog- The New Art of Teaching and Training by Karen Pryor
+- [[evolution]]
+    - Anatoly Nikolaev
+    - Evolution- from Mythology to Theory by Anatoly Nikolaev
+- [[life]]
+    - Jamie A. Davies
+    - Life Unfolding- How the human body creates itself by Jamie A. Davies, Napoleon Ryan
+    - David Sloan Wilson
+    - This View of Life- Completing the Darwinian Revolution by David Sloan Wilson
+    - Eric Smith
+    - The Origin and Nature of Life on Earth- The Emergence of the Fourth Geosphere by Eric Smith, Harold J. Morowitz
+    - [[human]]
+        - Thomas Suddendorf
+        - The gap- the science of what separates us from other animals by Thomas Suddendorf
+        - James C. Scott
+        - Against the Grain- A Deep History of the Earliest States by James C. Scott, Eric Jason Martin
+        - Alan Jasanoff
+        - The Biological Mind- How Brain, Body, and Environment Collaborate to Make Us Who We Are by Alan Jasanoff
+        - Yuval Noah Harari
+        - Sapiens- A Brief History of Humankind by Yuval Noah Harari
+        - Adam Rutherford
+        - Humanimal- How Homo sapiens Became Nature’s Most Paradoxical Creature―A New Evolutionary History by Adam Rutherford
+        - Sang-Hee Lee
+        - Close Encounters with Humankind- A Paleoanthropologist Investigates Our Evolving Species by Sang-Hee Lee
+        - Silvana Condemi
+        - A Pocket History of Human Evolution- How We Became Sapiens by Silvana Condemi and François Savatier
+        - Jacob Bronowski
+        - The Ascent of Man by Jacob Bronowski
+        - [[psychology]]
+            - [[psychological therapy]]
+                - Matthew McKay
+                - The Dialectical Behavior Therapy Skills Workbook- Practical DBT Exercises for Learning Mindfulness, Interpersonal Effectiveness, Emotion Regulation, and Distress Tolerance by Matthew McKay, Jeffrey C. Wood, Jeffrey Brantley
+                - Timothy D. Wilson
+                - Redirect- The Surprising New Science of Psychological Change by Timothy D. Wilson
+                - Randolph M. Nesse
+                - Good Reasons for Bad Feelings- Insights from the Frontier of Evolutionary Psychiatry by Randolph M. Nesse
+                - Karen Horney MD
+                - Neurosis and Human Growth: The Struggle toward Self-Realization
+                - Our Inner Conflicts- A Constructive Theory of Neurosis
+                - Erich Fromm
+                - Escape from Freedom
+                - To Have or To Be
+                - The Anatomy of Human Destructiveness
+                - The Fear of Freedom
+                - The Art of Loving
+                - Man for himself- an inquiry into the psychology of ethics 
+                - Kierkegaard
+                - Philosopher of the Heart: The Restless Life of Søren Kierkegaard by Clare Carlisle
+                - Kierkegaard’s ‘Fear and Trembling’: A Reader’s Guide by Clare Carlisle
+                - Kierkegaard's Philosophy of Becoming: Movements and Positions by Clare Carlisle
+                - Philosophy as Therapeia by Clare Carlisle
+                - Rollo May
+                - Existence- a New Dimension in Psychiatry and Psychology
+                - Man's Search for Himself
+                - Freedom and Destiny
+                - The Courage to Create
+                - The Discovery of Being
+                - The meaning of anxiety
+                - Carl R. Rogers
+                - On Becoming a Person
+                - A Way of Being
+                - N.Hamilton
+                - Self and Others- Object Relations Theory in Practice
+                - Heinz Kohut
+                - The Restoration of the Self
+                - The Chicago Institute Lectures
+                - How Does Analysis Cure
+                - The Analysis of the Self- A Systematic Approach to the Psychoanalytic Treatment of Narcissistic Personality Disorders
+                - Joan Symington
+                - Imprisoned Pain & Its Transformation
+                - Wilfred Bion
+                - The Clinical Thinking of Wilfred Bion
+                - Bion in New York and Sao Paulo_ And Three Tavistock Seminars
+                - Learning from Experience
+        - [[relationship]]
+    - [[brain]]
+        - Joseph LeDoux
+        - The Deep History of Ourselves- The Four-Billion-Year Story of How We Got Conscious Brains by Joseph LeDoux
+        - Daniel Kahneman
+        - Thinking, Fast and Slow by Daniel Kahneman
+        - Kevin J. Mitchell
+        - Innate- How the Wiring of Our Brains Shapes Who We Are by Kevin J. Mitchell
+        - Daivid Eagleman
+        - The Runaway Species- How Human Creativity Remakes the World by Daivid Eagleman
+        - V. S. Ramachandran
+        - The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human by V. S. Ramachandran, David Drummond
+        - Stanislas Dehaene
+        - Consciousness and the Brain- Deciphering How the Brain Codes Our Thoughts by Stanislas Dehaene
+        - From Monkey Brain to Human Brain- A Fyssen Foundation  Symposium by Stanislas Dehaene, Jean-René Duhamel, Marc D. Hauser, and Giacomo Rizzolatti
+        - Mariano Sigman
+        - The Secret Life of the Mind- How Your Brain Thinks, Feels, and Decides by Mariano Sigman
+        - Dean Buonomano
+        - Your Brain Is a Time Machine- The Neuroscience and Physics of Time by Dean Buonomano, Aaron Abano
+        - Miguel Nicolelis
+        - The True Creator of Everything- How the Human Brain Shaped the Universe as We Know It by Miguel Nicolelis
+        - Clive Gamble
+        - Thinking Big: How the Evolution of Social Life Shaped the Human Mind by Clive Gamble , John Gowlett
+        - [[flow]]
+            - [[synchronicity]]
+                - Sky Nelson-Isaacs
+                - Living in Flow- The Science of Synchronicity and How Your Choices Shape Your World by by Sky Nelson-Isaacs and Joseph Jaworski
+            - [[improvise]] [[note-taking system]]
+                - Nick Chater
+                - The Mind Is Flat- The Remarkable Shallowness of the Improvising Brain by Nick Chater
+        - [[mind]]
+            - Terrence W. Deacon
+            - Incomplete Nature- How Mind Emerged from Matter by Terrence W. Deacon
+            - Michael S. Gazzaniga
+            - The Consciousness Instinct- Unraveling the Mystery of How the Brain Makes the Mind by Michael S. Gazzaniga, David Colacci
+            - Christof Koch
+            - Consciousness- Confessions of a Romantic Reductionist by Christof Koch
+            - Antonio Damasio
+            - The Strange Order of Things- Life, Feeling, and the Making of Cultures by Antonio Damasio
+            - Self Comes to Mind- Constructing the Conscious Brain by Antonio Damasio
+            - Michael S. A. Graziano
+            - Rethinking Consciousness: A Scientific Theory of Subjective Experience by Michael S. A. Graziano
+            - Dan Ariely
+            - Predictably Irrational- The Hidden Forces that Shape Our Decisions by Dan Ariely
+            - Richard H. Thaler
+            - Nudge- Improving Decisions About Health, Wealth, and Happiness by Richard H. Thaler
+            - Sendhil Mullainathan
+            - Scarcity- Why Having Too Little Means So Much by Sendhil Mullainathan
+        - [[visual experience]]
+            - Emily Balcetis
+            - Clearer Closer Better- How Successful People See the World by Emily Balcetis
+            - Scott McCloud
+            - Understanding Comics- The Invisible Art by Scott McCloud
+            - Making Comics: Storytelling Secrets of Comics, Manga and Graphic Novels by Scott McCloud
+            - Reinventing Comics: The Evolution of an Art Form by Scott McCloud
+        - [[predict]]
+            - Andy Clark
+            - Surfing Uncertainty- Prediction, Action, and the Embodied Mind by Andy Clark
+        - [[neuroplasticity]]
+            - Norman Doidge
+            - The Brain That Changes Itself by Norman Doidge
+            - The Brain's Way of Healing- Remarkable Discoveries and Recoveries from the Frontiers of Neuroplasticity by Norman Doidge
+            - Jeffrey M. Schwartz MD
+            - The Mind and the Brain- Neuroplasticity and the Power of Mental Force by Jeffrey M. Schwartz MD and Sharon Begley
+            - Howard Gardner
+            - Frames of Mind- The Theory of Multiple Intelligences by Howard Gardner
+        - [[Language]]
+            - Michael A. Arbib
+            - How the Brain Got Language- The Mirror System Hypothesis by Michael A. Arbib
+            - Michael TOMASELLO
+            - Constructing a Language- A Usage-Based Theory of Language Acquisition by Michael TOMASELLO
+            - Michael C. Corballis
+            - The Truth about Language- What It Is and Where It Came From by Michael C. Corballis
+            - Daniel L. Everett
+            - How Language Began: The Story of Humanity's Greatest Invention by Daniel L. Everett, Jonathan Yen
+    - [[learning]]
+        - Stanislas Dehaene
+        - How We Learn by Stanislas Dehaene
+        - Vygotsky
+        - Vygotsky for Educators by Yuriy V. Karpov
+        - The Transformative Mind- Expanding Vygotsky’s Approach to Development and Education by Anna Stetsenko
+        - Paula Jacobsen
+        - Understanding How Asperger Children and Adolescents Think and Learn- Creating Manageable Environments for AS Students by Paula Jacobsen
+        - Kate Maguire
+        - Margaret Mead- Contributions to Contemporary Education by Kate Maguire
+        - Joseph E. Stiglitz
+        - Creating a Learning Society- A New Approach to Growth, Development, and Social Progress by by Joseph E. Stiglitz, Sean Runnette
+        - Daniel T. Willingham
+        - Why Don't Students Like School_ A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom by Daniel T. Willingham
+        - Peter C. Brown
+        - Make It Stick_ The Science of Successful Learning by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel
+        - Barbara Oakley
+        - A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
+by Barbara Oakley
+Joshua R. Eyler
+        - How Humans Learn: The Science and Stories behind Effective College Teaching
+by Joshua R. Eyler
+        - Pooja K. Agarwal
+        - Powerful Teaching: Unleash the Science of Learning by Pooja K. Agarwal
+        - [[trauma]]
+            - Bessel van der Kolk M.D.
+            - The Body Keeps the Score- Brain, Mind, and Body in the Healing of Trauma by Bessel van der Kolk M.D.
+            - Elizabeth A. Stanley PhD
+            - Widen the Window: Training Your Brain and Body to Thrive During Stress and Recover from Trauma by Elizabeth A. Stanley PhD and Bessel van der Kolk M.D.
+        - [[reading]]
+            - Stanislas Dehaene
+            - Reading in the Brain- The New Science of How We Read by Stanislas Dehaene
+            - Nicholas Carr
+            - The Shallows- What the Internet Is Doing to Our Brains by Nicholas Carr
+            - The Glass Cage: Automation and Us by Nicholas Carr
+            - Daniel T. Willingham
+            - The Reading Mind- A Cognitive Approach to Understanding How the Mind Reads by Daniel T. Willingham
+            -  Maryanne Wolf
+            - Reader, Come Home- The Reading Brain in a Digital World by Maryanne Wolf
+            - Alan Jacobs
+            - The Pleasures of Reading in an Age of Distraction by Alan Jacobs
+            - Mortimer J. Adler
+            - How to Read a Book- The Classic Guide to Intelligent Reading by Mortimer J. Adler and Charles Van Doren
+            - Peter Mendelsund
+            - What we see when we read by Peter Mendelsund
+        - [[note-taking system]]
+            - Sönke Ahrens
+            - How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers by Sönke Ahrens
+            - Randy Ingermanson
+            - How to Write a Dynamite Scene Using the Snowflake Method by Randy Ingermanson
+            - How to Write a Novel Using the Snowflake Method by Randy Ingermanson
+- [[networks of people]]
+    - William von Hippel
+    - The Social Leap- The New Evolutionary Science of Who We Are, Where We Come From, and What Makes Us Happy by William von Hippel
+    - Pascal Boyer
+    - Minds Make Societies- How Cognition Explains the World Humans Create by Pascal Boyer
+    - Steve Stewart Williams
+    - The Ape That Understood the Universe- How the Mind and Culture Evolve by Steve Stewart Williams
+    - [[social network structure]]
+    - [[city]]
+        - Alain Bertaud
+        - Order without Design- How Markets Shape Cities (The MIT Press) by Alain Bertaud
+    - [[building]]
+        - Stewart Brand
+        - How Buildings Learn- What Happens After They’re Built by Stewart Brand
+        - Christopher Alexander
+        - The Timeless Way of Building by Christopher Alexander
+        - A Pattern Language- Towns, Buildings, Construction by Christopher Alexander
+        - Le Corbusier
+        - Towards a New Architecture by Le Corbusier
+        - John F.C. Turner
+        - Freedom to Build- Dweller Control of the Housing Process by John F.C. Turner, Robert Fichter
+        - Housing by people- towards autonomy in building environments by John F.C. Turner
+        - Brent C. Brolin
+        - The Failure of Modern Architecture by Brent C. Brolin
+    - [[society]]
+        - [[trust]]
+        - [[Culture]]
+            - Daniel Coyle
+            - The Culture Code- The Secretes of Highly Successful Groups by Daniel Coyle
+            - Joseph Henrich
+            - The Secret of Our Success- How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter by Joseph Henrich
+            - Cecilia M. Heyes
+            - Cognitive gadgets- the cultural evolution of thinking by Cecilia M. Heyes
+            - Ruth Benedict
+            - Patterns of Culture by Ruth Benedict
+    - [[scale]]
+        - David Epstein
+        - Range- Why Generalists Triumph in a Specialized World by David Epstein
+        - Geoffrey West
+        - Scale- The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life, in Organisms, Cities, Economies, and Companies by Geoffrey West
+        - [[growth]]
+            - Vaclav Smil
+            - Growth- from microorganisms to megacities by Vaclav Smil
+    - [[middleman]]
+        - Marina Krakovsky
+        - The Middleman Economy- How Brokers, Agents, Dealers, and Everyday Matchmakers Create Value and Profit by Marina Krakovsky
+- [[problem-solving methodology]]
+    - Paul Watzlawick
+    - Change- Principles of Problem Formation and Problem Resolution by Paul Watzlawick, John H. Weakland
+    - Guru Madhavan
+    - Applied Minds- How Engineers Think by Guru Madhavan, Sean Pratt
+    - [[Mathematical thinking]]
+        - Jordan Ellenberg
+        - How Not to Be Wrong- The Power of Mathematical Thinking by Jordan Ellenberg
+        -  G. Polya
+        - How to Solve It- a new aspect of mathematical method by G. Polya and John H. Conway
+        - Francis Su
+        - Mathematics For Human Flourishing by Francis Su, Christopher Jackson
+        - Harold R. Jacobs
+        - Mathematics, a Human Endeavor- A Textbook for Those Who Think They Don’t Like the Subject by Harold R. Jacobs
+        - John P D'Angelo
+        - Mathematical thinking- problem-solving and proofs by John P D'Angelo, Douglas Brent West
+        - [[computing]]
+            - Martin Erwig
+            - Once Upon an Algorithm- How Stories Explain Computing by Martin Erwig
+    - [[design mechanism]]
+        - Donald A. Norman
+        - Living with Complexity by Donald A. Norman
+        - The Design of Everyday Things by Donald A. Norman
+        - [[habit]]
+            - BJ Fogg Ph.D
+            - Tiny Habits- The Small Changes That Change Everything by BJ Fogg Ph.D
+            - James Clear 
+            - Atomic Habits by James Clear
+            - Charles Duhigg
+            - The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg
+            - Stephen Guise
+            - Mini Habits: Smaller Habits, Bigger by Stephen Guise
+            - Nir Eyal
+            - Hooked- How to Build Habit, Forming Products by Nir Eyal, Ryan Hoover
+            - Clare Carlisle
+            - On Habit (Thinking in Action) by Clare Carlisle
+        - [[gamification]]
+            - Nicholas Lovell
+            - The Pyramid of Game Design- Designing, Producing and Launching Service Games 1st Edition by Nicholas Lovell
+            -  Katie Salen
+            - Rules of Play- Game Design Fundamentals by Katie Salen
+            - Zack Hiwiller
+            - Players Making Decisions_ Game Design Essentials and the Art of Understanding Your Players by Zack Hiwiller
+            - Raph Koster
+            - Theory of Fun for Game Design by Raph Koster
+            - Jesse Schell
+            - The Art of Game Design- A Book of Lenses by Jesse Schell
+            - Geoffrey Engelstein
+            - Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms by Geoffrey Engelstein
+            - Leonard Zaichkowsky
+            - The Playmaker's Advantage- How to Raise Your Mental Game to the Next Level by Leonard Zaichkowsky and Daniel Peterson
+        - [[startup]]
+    - [[analogy]]
+        - Douglas R. Hofstadter
+        - Surfaces and Essences- Analogy as the Fuel and Fire of Thinking by Douglas Hofstadter, Emmanuel Sander
+        - I Am a Strange Loop by Douglas R. Hofstadter
+        - Gedel, Escher, Bach- An Eternal Golden Braid by Douglas R. Hofstadter
+        - [[metaphor]]
+            - Adam B. Seligman
+            - How Things Count As The Same- Memory, Mimesis, And Metaphor by Adam B. Seligman, Robert P. Weller
+            - James Geary
+            - I Is an Other- The Secret Life of Metaphor and How It Shapes the Way We See the World by James Geary
+            - J. David Archibald
+            - Aristotle's Ladder, Darwin's Tree- The Evolution of Visual Metaphors for Biological Order by J. David Archibald
+            - Mardy Grothe
+            - I Never Metaphor I Didn't Like- A Comprehensive Compilation of History's Greatest Analogies, Metaphors, and Similes by Mardy Grothe
+        - [[story]]
+            - Donna Lichaw
+            - The User's Journey- Storymapping Products That People Love by Donna Lichaw and Eva-Lotta Lamm
+            - Will Storr
+            - The Science of Storytelling by Will Storr
+    - [[innovation]]
+        - Dan Senor
+        - Start-Up Nation- The Story of Israel's Economic Miracle by Dan Senor, Saul Singer
+        - Keith Sawyer
+        - Group Genius- The Creative Power of Collaboration by Keith Sawyer, Jonathan Marosz
+        - R. Keith Sawyer
+        - Explaining Creativity- The Science of Human Innovation by R. Keith Sawyer
+            - [[sale]]
+                - Mike Weinberg
+                - Sales Truth- Debunk the Myths, Apply Powerful Principles, Win More New Sales by Mike Weinberg
+
+        
+
+    
